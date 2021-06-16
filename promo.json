@@ -1,15 +1,15 @@
 {
 
     "appInfos":[ {
-       "title": "dddd1",
-  "id": "234"
+       "packageName": "dddd1",
+  "urlImage": "234"
     },
                 {
-       "title": "3ef",
-  "id": "fsfa"
+       "packageName": "3ef",
+  "urlImage": "fsfa"
     },
                 {
-       "title": "af",
-  "id": "sv3"
+       "packageName": "af",
+  "urlImage": "sv3"
     }]
 }
