@@ -1,6 +1,15 @@
 {
-  "title": "dddd1",
-  "id": "234",
-  "but_title": null,
-  "but_image": null
+
+    "appInfos":[ {
+       "title": "dddd1",
+  "id": "234"
+    },
+                {
+       "title": "3ef",
+  "id": "fsfa"
+    },
+                {
+       "title": "af",
+  "id": "sv3"
+    }]
 }
