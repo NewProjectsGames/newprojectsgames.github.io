@@ -1,15 +1,15 @@
 {
 
     "appInfos":[ {
-       "packageName": "dddd1",
+       "packageName": "com.npg.TheWizardStickmanWar",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     },
                 {
-       "packageName": "3ef",
+       "packageName": "com.npg.TheWizardStickmanWar",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     },
                 {
-       "packageName": "af",
+       "packageName": "com.npg.TheWizardStickmanWar",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     }]
 }
