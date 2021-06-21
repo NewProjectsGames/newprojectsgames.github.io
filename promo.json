@@ -2,17 +2,17 @@
 
     "appInfos":[ {
        "packageName": "com.npg.TheWizardStickmanWar",
-         "nameGame": " The Wizard Stickman War",
+         "gameName": " The Wizard Stickman War",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     },
                 {
        "packageName": "com.npg.TheWizardStickmanWar", 
-                    "nameGame": "Hello World",
+                    "gameName": "Hello World",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     },
                 {
        "packageName": "com.npg.TheWizardStickmanWar",
-                     "nameGame": "Imposter",
+                     "gameName": "Imposter",
   "urlImage": "https://newprojectsgames.github.io/Icon.png"
     }]
 }
